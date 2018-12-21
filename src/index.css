@@ -1,0 +1,27 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+h1 {
+  text-align: center;
+  margin: 5px;
+  font-size: 32px;
+  font-family: "Quicksand", sans-serif;
+}
+
+h2 {
+  font-size: 20px;
+  font-family: "Quicksand", sans-serif;
+}
+
+.redBackground {
+  background: #ff5656;
+}
+
+.greenBackground {
+  background-color: #91ee83;
+}
+button {
+  border-radius: 4px;
+}
